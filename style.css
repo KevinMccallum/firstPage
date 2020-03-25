@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(141, 236, 243);
+}
+
+section{
+    border-bottom: 1px solid darkgray;
+}
+
+
+img {
+    width: 200px;
+    position: relative;
+    left: calc(50% - 100px);
+}
+
+.name{
+    padding-bottom: 20px;
+}
+
+
+h1{
+    width: 500px;
+    position: relative;
+    left: calc(50% - 170px);
+}
+
+h2{
+    position: relative;
+    top: 10%;
+    left: 47%;
+}
+
+.right{
+    position: relative;
+    left: 48%;
+}
+
+p{
+    position: relative;
+    left: 40%;
+}
+
+.esquimal{
+    position: relative;
+    left: 8%;
+}
+
+ul{
+    list-style-type: none;
+    position: relative;
+    left: 44%;
+    padding-top: 15px;
+}
+
+ul li{
+    display: inline;
+}
